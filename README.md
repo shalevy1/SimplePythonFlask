@@ -15,7 +15,7 @@ css to beautify the look and feel.It also show how to have the master page conce
 * 	unzip to a folder
 *	open the project in Python Editor / Pycharm
 *	Install Flask and Pandas package
-*	Run Source.py fil and it should create a localhost url something like "http://127.0.0.1:5000/" 
+*	Run Source.py fil and it should host the application on a localhost url of something like "http://127.0.0.1:5000/" 
 
 
 ## Credits 
